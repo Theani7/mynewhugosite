@@ -184,4 +184,3 @@ hugo --minify
 # Clean build (removes stale files in public/)
 hugo --minify --cleanDestinationDir
 ```
-# mynewhugosite
