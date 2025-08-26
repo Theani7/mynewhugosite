@@ -17,7 +17,7 @@ Currently pursuing my Bachelor's in **Artificial Intelligence & Data Science** a
 - **C++** — Performance-critical applications
 
 ### Machine Learning & AI
-- **TensorFlow & PyTorch** — Deep learning frameworks for neural network development
+- **PyTorch** — Deep learning frameworks for neural network development
 - **Scikit-learn** — Machine learning algorithms and model development
 - **Hugging Face** — State-of-the-art pre-trained models
 
@@ -32,7 +32,7 @@ Currently pursuing my Bachelor's in **Artificial Intelligence & Data Science** a
 
 ## Philosophy
 
-I believe AI isn't just about replacing human tasks — it's about amplifying human potential. My work focuses on creating intelligent systems that are ethical by design, human-centered, and impactful in solving real-world problems.
+I believe AI isn't just about replacing human tasks. it's about amplifying human potential. My work focuses on creating intelligent systems that are ethical by design, human-centered, and impactful in solving real-world problems.
 
 Every model I train and every algorithm I implement is guided by one central question: *How can this make the world a little bit better?*
 

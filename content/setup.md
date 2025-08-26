@@ -7,7 +7,7 @@ description: "Some of my interests, setup, and what keeps me going"
 ## 💻 My Everyday Tech
 
 ### Main Device
-**13-inch MacBook Air** - Small, light, and gets the job done. Perfect for working, browsing, or just binge-watching stuff.
+**13-inch MacBook Air M1** - Small, light, and gets the job done. Perfect for working, browsing, or just binge-watching stuff.
 
 ### Phone
 **iPhone 13** - I mostly use it for:  
