@@ -1,0 +1,91 @@
+baseURL = "/"
+relativeURLs = false
+canonifyURLs = true
+
+title   = "Anil Paneru"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+
+enableRobotsTXT = true
+enableEmoji     = true
+
+[pagination]
+  pagerSize = 10
+  disableAliases = false
+  path = 'page'
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[params.portrait]
+  path     = "img/profile.jpg"   # relative to your `static/` folder
+  alt      = "My portrait"
+  maxWidth = "150px"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
+
+[params]
+  # Basic Info
+  homeSubtitle = "Your friendly neighbourhood Data Scientist"
+  description  = "Portfolio showcasing AI & Data Science projects"
+  keywords     = "AI, Data Science, Machine Learning, Portfolio"
+
+  # Dark mode settings
+  enableThemeToggle = true   # enable 🌙/☀️ toggle
+  defaultTheme = "auto"      # "auto", "dark", or "light"
+
+  # Custom CSS override
+  customCSS = ["css/override.css"]
+
+  # Social links
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/Theani7"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/theanilpaneru/"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/itsfckingwho"
+
+  # Footer
+  [params.footer]
+    trademark = 2025
+    rss = false
+    copyright = true
+    author = false
+    bottomText = [
+      "Built with ❤️ and ☕ by Ani7"
+    ]
+
+# -----------------
+# Navigation Menu
+# -----------------
+[[menu.main]]
+  identifier = "about"
+  name       = "About"
+  url        = "/about/"
+  weight     = 1
+
+[[menu.main]]
+  identifier = "projects"
+  name       = "Projects"
+  url        = "/projects/"
+  weight     = 2
+
+[[menu.main]]
+  identifier = "blog"
+  name       = "Blog"
+  url        = "/posts/"
+  weight     = 3
+
+[[menu.main]]
+  identifier = "zz-setup"
+  name = "Mysetup"
+  url = "/setup/"
+  weight = 4

@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Hugo build artifacts
+public/
+resources/
+.hugo_build.lock
+
+# Node/JS (if ever added)
+node_modules/
+*.log
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.swp
+
+# Python (if used for scripts)
+__pycache__/
+*.pyc
+
+# Env files
+.env
+.env.*
+
+# Misc
+Thumbs.db
+*.bak
+*.tmp
