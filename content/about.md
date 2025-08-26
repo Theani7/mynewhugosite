@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "~> whoami"
 date: 2025-08-25
 draft: false
 description: "AI & Data Science student passionate about building intelligent systems that solve real-world problems"
@@ -17,18 +17,25 @@ Currently pursuing my Bachelor's in **Artificial Intelligence & Data Science** a
 - **C++** — Performance-critical applications
 
 ### Machine Learning & AI
-- **PyTorch** — Deep learning frameworks for neural network development
 - **Scikit-learn** — Machine learning algorithms and model development
-- **Hugging Face** — State-of-the-art pre-trained models
 
 ### Data Science Toolkit
 - **Pandas & NumPy** — Data manipulation and numerical computing
 - **Matplotlib & Seaborn** — Data visualization and storytelling
+- **Plotly** — Interactive visualizations and dashboards
 - **Jupyter Notebooks** — Interactive development and analysis
+
+### Web Development & Deployment
+- **Streamlit** — Rapid web app development for data science projects
+- **Flask/FastAPI** — API development and web services
+
+### Data Collection & Processing
+- **Beautiful Soup** — Web scraping and HTML/XML parsing
+- **Requests** — HTTP library for API interactions
+- **Scrapy** — Advanced web scraping framework
 
 ### Infrastructure
 - **Git** — Version control and collaborative development
-- **Docker** — Containerization for deployment environments
 
 ## Philosophy
 
