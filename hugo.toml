@@ -53,15 +53,20 @@ enableEmoji     = true
     name = "twitter"
     url  = "https://twitter.com/itsfckingwho"
 
+  [[params.social]]
+  name = "email"
+  url  = "mailto:theanilpaneru@gmail.com"
+
   # Footer
   [params.footer]
     trademark = 2025
     rss = false
     copyright = true
     author = false
-    bottomText = [
-      "Built with ❤️ and ☕ by Ani7"
-    ]
+   bottomText = [
+    "Built with ❤️ and ☕ by Ani7 · <a href='mailto:theanilpaneru@gmail.com'>Email Me</a>"
+  ]
+
 
 # -----------------
 # Navigation Menu
